@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faults", "Faults.csproj", "{6FA8DA13-B3F3-440E-8DF3-CBDBB75FED09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{439865D5-21A8-4C37-95A7-C2903223B061}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://kumarnitesh.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Faults.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = Host\\Host.csproj
+		SccProjectName2 = Host
+		SccLocalPath2 = Host
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA8DA13-B3F3-440E-8DF3-CBDBB75FED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA8DA13-B3F3-440E-8DF3-CBDBB75FED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA8DA13-B3F3-440E-8DF3-CBDBB75FED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA8DA13-B3F3-440E-8DF3-CBDBB75FED09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439865D5-21A8-4C37-95A7-C2903223B061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439865D5-21A8-4C37-95A7-C2903223B061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439865D5-21A8-4C37-95A7-C2903223B061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439865D5-21A8-4C37-95A7-C2903223B061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
